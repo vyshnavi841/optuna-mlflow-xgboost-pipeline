@@ -1,0 +1,6 @@
+artifact_location: file:///app/outputs/mlruns/175324060544397773
+creation_time: 1767528120384
+experiment_id: '175324060544397773'
+last_update_time: 1767528120384
+lifecycle_stage: active
+name: optuna-xaboost-optimization
