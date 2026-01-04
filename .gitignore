@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary / verification scripts
+verify_data_loader.py
+
+# OS files
+.DS_Store
+Thumbs.db
