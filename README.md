@@ -1,6 +1,6 @@
 # Optuna–MLflow–XGBoost Optimization Pipeline
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements an **end-to-end machine learning optimization pipeline** using:
 
@@ -13,7 +13,7 @@ The goal is to tune an XGBoost regression model on the **California Housing data
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - Hyperparameter optimization with **Optuna (100 trials)**
 - **MedianPruner** for efficient pruning
@@ -27,7 +27,7 @@ The goal is to tune an XGBoost regression model on the **California Housing data
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 optuna-mlflow-xgboost-pipeline/
@@ -48,7 +48,7 @@ optuna-mlflow-xgboost-pipeline/
 ├── requirements.txt
 └── README.md
 
-⚙️ Optimization Details
+ Optimization Details
 Hyperparameters Tuned (7)
 
 n_estimators
@@ -79,7 +79,7 @@ Sampler: TPE Sampler
 
 Random Seed: Fixed for reproducibility
 
-🚀 How to Run (Docker – Recommended)
+ How to Run (Docker – Recommended)
 1️⃣ Build the Docker image
 docker build -t optuna-mlflow-pipeline .
 
